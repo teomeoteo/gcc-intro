@@ -1,6 +1,6 @@
 #include "hello.h"
 
 int main (void) {
-  hello ("world");
+  hello ("Teodor");
   return 0;
 }
