@@ -13,7 +13,7 @@ Used makefile to compile
 2. compilation(from source to assembly)
 3. assembly(from assembly to machine code)
 4. linking(create final exe)
-
+---
 1. Expanding macros like #include statements actually copies the .h file's code into the .i file.
 Then in the linking stage those function declarations for example are connected to libraries that
 include the implementation. -note we're using "cpp" command like so: "cpp filename.c > filename.i"
