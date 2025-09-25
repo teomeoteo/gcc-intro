@@ -1,1 +1,0 @@
-Manually do the entire compilation process from cpp command to the ld command
